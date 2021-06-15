@@ -8,6 +8,8 @@
 
 ### Components
 
+1. Navbar component
+
 ### pages
 
 1. Home page

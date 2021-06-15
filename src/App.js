@@ -4,11 +4,14 @@ import Home from "./pages/Home"
 import Rooms from "./pages/Rooms"
 import SingleRoom from "./pages/SingleRoom"
 
-import {  BrowserRouter as Router,  Switch,  Route,  Link } from "react-router-dom";
+import Navbar from "./components/Navbar";
+
+import {  Switch,  Route } from "react-router-dom";
 
 function App() {
   return (
     <div>
+      <Navbar />
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/rooms" exact component={Rooms} />
