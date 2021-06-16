@@ -16,6 +16,7 @@
 6. FeaturedRooms component
 7. Loading component
 8. Room component
+9. StyledHero component
 
 ### pages
 
