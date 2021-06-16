@@ -19,7 +19,7 @@ export default class Navbar extends Component {
                 <div className="nav-center">
                     <div className="nav-header">
                         <Link to="/">
-                            <img src={logo} alt="Beach Resort" style={{ width:"200px" }} />
+                            <img src={logo} alt="Beach Resort" style={{ width:"100px" }} />
                         </Link>
 
                         <button type="button" className="nav-btn" onClick={this.handleToggle}>
