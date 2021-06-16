@@ -20,3 +20,7 @@
 2. Rooms page
 3. SingleRoom page
 4. Error page
+
+### context
+
+1. RoomContext
