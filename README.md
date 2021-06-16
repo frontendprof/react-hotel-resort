@@ -11,6 +11,8 @@
 1. Navbar component
 2. Hero component
 3. Banner component
+4. Services component
+5. Title component
 
 ### pages
 
