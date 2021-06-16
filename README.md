@@ -13,6 +13,9 @@
 3. Banner component
 4. Services component
 5. Title component
+6. FeaturedRooms component
+7. Loading component
+8. Room component
 
 ### pages
 

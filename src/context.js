@@ -16,7 +16,8 @@ export default class RoomProvider extends Component {
 
     componentDidMount(){
         let rooms=this.formatData(items)
-        console.log(rooms);
+        let featuredRooms=rooms.filter(room=>room.featured)
+        this.setState({rooms,featuredRooms,sortedRooms:rooms,loading:false})
     }
 
     formatData(items){
