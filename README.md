@@ -13,6 +13,9 @@
 3. Banner component
 4. Services component
 5. Title component
+6. FeaturedRooms component
+7. Loading component
+8. Room component
 
 ### pages
 
@@ -20,3 +23,7 @@
 2. Rooms page
 3. SingleRoom page
 4. Error page
+
+### context
+
+1. RoomContext
