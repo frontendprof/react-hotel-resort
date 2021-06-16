@@ -9,6 +9,8 @@
 ### Components
 
 1. Navbar component
+2. Hero component
+3. Banner component
 
 ### pages
 
