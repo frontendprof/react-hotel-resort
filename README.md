@@ -17,6 +17,9 @@
 7. Loading component
 8. Room component
 9. StyledHero component
+10. RoomContainer component
+11. RoomFilter component
+12. RoomList component
 
 ### pages
 
@@ -28,3 +31,6 @@
 ### context
 
 1. RoomContext
+2. RoomProvider
+3. RoomConsumer
+4. withRoomConsumer(HOC)
